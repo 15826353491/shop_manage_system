@@ -1,0 +1,2 @@
+# shop_manage_system
+shop_manage_system是一个基于Vue+Element 电商后台管理系统的前端项目
