@@ -1,4 +1,4 @@
-# shop_manage_system
+# 电商后台管理系统
 
 ## 说明
 
