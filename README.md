@@ -34,7 +34,7 @@
 | Vue-router | 路由框架              | [https://router.vuejs.org/](https://router.vuejs.org/)       |
 | Element    | 前端UI框架            | [https://element.eleme.io/](https://element.eleme.io/)       |
 | Axios      | 前端HTTP框架          | [https://github.com/axios/axios](https://github.com/axios/axios) |
-| v-charts   | 基于Echarts的图表框架 | [https://v-charts.js.org/](https://v-charts.js.org/)         |
+| Echarts   | 基于Echarts的图表框架 | [http://echarts.apache.org/zh/index.html](http://echarts.apache.org/zh/index.html)         |
 
 ### 项目布局
 
